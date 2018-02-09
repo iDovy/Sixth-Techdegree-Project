@@ -1,1 +1,1 @@
-import 'mediaelement-mediaelement-85f4484/full.js';
+import "mediaelement-mediaelement-85f4484/full.js";
