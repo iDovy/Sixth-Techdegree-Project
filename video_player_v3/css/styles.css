@@ -1,0 +1,16 @@
+.mejs__currenttime, .mejs__duration{
+    color: steelblue;
+}
+.mejs__overlay-button{
+    background-color: aquamarine;
+    border-radius: 50%;
+}
+.mejs__controls{
+    color: cadetblue;
+}
+@media(min-width: 768px)
+{
+    body{
+        padding: 0 15%;
+    }
+}
